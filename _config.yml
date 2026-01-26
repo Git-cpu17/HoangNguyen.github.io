@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University of Houston"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hnguyen198@uh.edu" 
 
   # Academic websites
   academia         : # "https://cs.uh.edu"
