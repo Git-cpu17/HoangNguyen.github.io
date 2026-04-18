@@ -15,9 +15,11 @@ Education: Bachelor of Science  Computer Science at University of Houston.
 
 Department: cs.uh.edu
 
-linkedln:  linkedin.com/in/hoang-nguyen-66594916b
+LinkedIn: [linkedin.com/in/hoang-nguyen-66594916b](https://www.linkedin.com/in/hoang-nguyen-66594916b)
 
-Resume:[_files directory](https://github.com/Git-cpu17/HoangNguyen.github.io/blob/master/files/HNguyenRes24UH_2.pdf)
+
+Resume: [Resume](./_files/HNguyenRes24UH_2.pdf)
+
 
 ======
 
